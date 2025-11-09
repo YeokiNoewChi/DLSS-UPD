@@ -4,7 +4,7 @@
 It provides an easy, friendly UI for checking, updating, and rolling back DLSS versions—no more digging through game folders.
 
 <p align="center">
-  <a href="https://github.com/<your-repo>/DLSS-UPD/releases"><img alt="Release" src="https://img.shields.io/github/v/release/<your-repo>/DLSS-UPD?label=latest%20release"></a>
+  <a href="https://github.com/YeokiNoewChi/DLSS-UPD/releases/tag/v0.0.1"><img alt="Release" src="https://img.shields.io/github/v/release/YeokiNowChi/DLSS-UPD?label=latest%20release"></a>
   <a href="#requirements"><img alt="Platform" src="https://img.shields.io/badge/Windows-10%2B-blue"></a>
   <a href="#requirements"><img alt=".NET" src="https://img.shields.io/badge/.NET-6.0%2B-512BD4"></a>
 </p>
@@ -28,7 +28,7 @@ It provides an easy, friendly UI for checking, updating, and rolling back DLSS v
 
 DLSS-UPD ships with an **Inno Setup** installer.
 
-1. Download the latest **DLSS-UPD Installer (.exe)** from the [Releases](https://github.com/<your-repo>/DLSS-UPD/releases) page.  
+1. Download the latest **DLSS-UPD Installer (.exe)** from the [Releases](https://github.com/YeokiNoewChi/DLSS-UPD/releases/tag/v0.0.1) page.  
 2. Run the installer and follow the prompts.  
 3. Choose your install directory (default: `C:\Program Files\DLSS-UPD`).  
 4. Launch from the desktop shortcut or Start Menu.
