@@ -33,18 +33,6 @@ DLSS-UPD ships with an **Inno Setup** installer.
 3. Choose your install directory (default: `C:\Program Files\DLSS-UPD`).  
 4. Launch from the desktop shortcut or Start Menu.
 
-> #### 🔒 SmartScreen Notice
-> Because DLSS-UPD is a small open-source app, **Windows SmartScreen** may show:
->
-> *“Windows protected your PC.”*
->
-> To continue:
-> 1) Click **More info**  
-> 2) **Run anyway**.
-
-![Windows Defender Prompt](windows-defender.png)  
-> DLSS-UPD is open-source and only accesses your local game files + checks DLSS updates online.
-
 ---
 
 ## 🚀 How to Use
@@ -100,6 +88,20 @@ Open **Preferences** from the toolbar to customize DLSS-UPD.
 - Windows 10 or newer  
 - .NET 6.0 or later  
 - Internet connection (for version checks & downloads)
+
+---
+
+> #### 🔒 SmartScreen Notice
+> Because DLSS-UPD is a small open-source app, **Windows SmartScreen** may show:
+>
+> *“Windows protected your PC.”*
+>
+> To continue:
+> 1) Click **More info**  
+> 2) **Run anyway**.
+
+![Windows Defender Prompt](windows-defender.png)  
+> DLSS-UPD is open-source and only accesses your local game files + checks DLSS updates online.
 
 ---
 
