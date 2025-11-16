@@ -1,4 +1,4 @@
-# DLSS-UPD ![DLSS-UPD](icon-1.png)
+![DLSS-UPD](icon-1.png)
 
 **DLSS-UPD** is a lightweight Windows app that helps you manage and update NVIDIA DLSS files quickly and safely.  
 It provides an easy, friendly UI for checking, updating, and rolling back DLSS versions—no more digging through game folders.
